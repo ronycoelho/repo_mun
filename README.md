@@ -32,9 +32,15 @@
 
 tsemun <- tse_municipios()
 
+[brcities](https://github.com/abjur/brcities)
+
 [electionsBr](http://electionsbr.com/)
 
 [geobr](https://cran.r-project.org/web/packages/geobr/vignettes/intro_to_geobr.html)
 
 
 ## Indicadores
+
+
+## Outros
+[zonas eleitorais] (https://github.com/mapaslivres/zonas-eleitorais)
