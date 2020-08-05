@@ -44,4 +44,7 @@ tsemun <- tse_municipios()
 [IVS - Atlas da Vulnerabilidade Social nos Municípios](http://ivs.ipea.gov.br/index.php/pt/planilha) 
 
 ## Outros
-[zonas eleitorais] (https://github.com/mapaslivres/zonas-eleitorais)
+
+[zonas eleitorais](https://github.com/mapaslivres/zonas-eleitorais)
+
+[Códigos dos Municípios IBGE](https://www.ibge.gov.br/explica/codigos-dos-municipios.php?fbclid=IwAR0fQq6r3RxHH88QFgJhkR6hCAc7TAx-a5RCL1xi703swS1M-hldaxJhyVc)
