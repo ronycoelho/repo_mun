@@ -10,17 +10,17 @@
 
 ## Bases
 
-[Munics IBGE](ftp://ftp.ibge.gov.br/Perfil_Municipios/)
+[Munics IBGE](ftp://ftp.ibge.gov.br/Perfil_Municipios)
 
-[Pib dos Municípios](ftp://ftp.ibge.gov.br/Pib_Municipios/)
+[Pib dos Municípios](ftp://ftp.ibge.gov.br/Pib_Municipios)
 
 Censo Suas
 
 DataSus
 
-Ranking Nacional da Transparência (http://combateacorrupcao.mpf.mp.br/ranking)
+[Ranking Nacional da Transparência](http://combateacorrupcao.mpf.mp.br/ranking)
 
-Munics-IPs
+[Munics-IPs](https://github.com/ronycoelho/Bases-Munics-IPs-e-Estadics-IPs)
 
 ## Pacotes
 
