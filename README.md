@@ -10,21 +10,17 @@
 
 ## Bases
 
-### [Munics IBGE](ftp://ftp.ibge.gov.br/Perfil_Municipios/)
+[Munics IBGE](ftp://ftp.ibge.gov.br/Perfil_Municipios/)
 
+[Pib dos Municípios](ftp://ftp.ibge.gov.br/Pib_Municipios/)
 
-### [Pib dos Municípios](ftp://ftp.ibge.gov.br/Pib_Municipios/)
+Censo Suas
 
+DataSus
 
-### Censo Suas
+Ranking Nacional da Transparência (http://combateacorrupcao.mpf.mp.br/ranking)
 
-
-### DataSus
-
-### Munics-IPs
-
-### 
-
+Munics-IPs
 
 ## Pacotes
 
@@ -37,7 +33,6 @@ tsemun <- tse_municipios()
 [electionsBr](http://electionsbr.com/)
 
 [geobr](https://cran.r-project.org/web/packages/geobr/vignettes/intro_to_geobr.html)
-
 
 ## Indicadores
 
