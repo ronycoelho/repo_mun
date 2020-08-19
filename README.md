@@ -18,8 +18,6 @@ Censo Suas
 
 DataSus
 
-[Ranking Nacional da Transparência](http://combateacorrupcao.mpf.mp.br/ranking)
-
 [Munics-IPs](https://github.com/ronycoelho/Bases-Munics-IPs-e-Estadics-IPs)
 
 ## Pacotes
@@ -37,6 +35,11 @@ tsemun <- tse_municipios()
 ## Indicadores
 
 [IVS - Atlas da Vulnerabilidade Social nos Municípios](http://ivs.ipea.gov.br/index.php/pt/planilha) 
+
+[Ranking Nacional da Transparência](http://combateacorrupcao.mpf.mp.br/ranking)
+
+[Indíce de desenvolvimento municipal Firjan](https://www.firjan.com.br/ifdm/)
+
 
 ## Outros
 
