@@ -10,6 +10,8 @@
 
 ## Bases
 
+[Códigos dos Mun.(IBGE, TSE, Receita, etc)](http://basedosdados.org/dataset/diretorio-municipios-brasileiros/resource/c1deb363-ffba-4b1e-95dc-c5e08311852e)
+
 Munics IBGE - ftp://ftp.ibge.gov.br/Perfil_Municipios
 
 Pib dos Municípios - ftp://ftp.ibge.gov.br/Pib_Municipios
