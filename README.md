@@ -48,3 +48,5 @@ tsemun <- tse_municipios()
 [zonas eleitorais](https://github.com/mapaslivres/zonas-eleitorais)
 
 [Códigos dos Municípios IBGE](https://www.ibge.gov.br/explica/codigos-dos-municipios.php?fbclid=IwAR0fQq6r3RxHH88QFgJhkR6hCAc7TAx-a5RCL1xi703swS1M-hldaxJhyVc)
+
+[Raio-X dos Municípios (2020)](https://raioxdosmunicipios.insper.edu.br/)
