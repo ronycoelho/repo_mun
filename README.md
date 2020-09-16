@@ -44,6 +44,7 @@ tsemun <- tse_municipios()
 
 [Indíce de desenvolvimento municipal Firjan](https://www.firjan.com.br/ifdm/)
 
+[Mapa Brasil Transparente](https://mbt.cgu.gov.br/publico/home)
 
 ## Outros
 
