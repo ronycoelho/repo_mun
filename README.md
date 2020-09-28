@@ -53,3 +53,9 @@ tsemun <- tse_municipios()
 [Códigos dos Municípios IBGE](https://www.ibge.gov.br/explica/codigos-dos-municipios.php?fbclid=IwAR0fQq6r3RxHH88QFgJhkR6hCAc7TAx-a5RCL1xi703swS1M-hldaxJhyVc)
 
 [Raio-X dos Municípios (2020)](https://raioxdosmunicipios.insper.edu.br/)
+
+[Siconfi](https://siconfi.tesouro.gov.br/siconfi/index.jsf)
+
+[Meu município](https://meumunicipio.org.br/)
+
+[Compara Brasil](http://comparabrasil.com/)
