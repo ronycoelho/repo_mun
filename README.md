@@ -48,6 +48,8 @@ tsemun <- tse_municipios()
 
 [Mapa Brasil Transparente](https://mbt.cgu.gov.br/publico/home)
 
+[Escala Brasil Transparente](https://relatorios.cgu.gov.br/Visualizador.aspx?id_relatorio=23)
+
 ## Outros
 
 [zonas eleitorais](https://github.com/mapaslivres/zonas-eleitorais)
