@@ -50,6 +50,8 @@ tsemun <- tse_municipios()
 
 [Escala Brasil Transparente](https://relatorios.cgu.gov.br/Visualizador.aspx?id_relatorio=23)
 
+[Índice de desenvolvimento municipal sustentável - CNM](https://www.cnm.org.br/municipios/idms). (Acesso não público)
+
 ## Outros
 
 [zonas eleitorais](https://github.com/mapaslivres/zonas-eleitorais)
