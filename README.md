@@ -46,6 +46,8 @@ tsemun <- tse_municipios()
 
 [Indíce de desenvolvimento municipal Firjan](https://www.firjan.com.br/ifdm/)
 
+[Indíce Firjan de gestão municipal](https://www.firjan.com.br/ifgf/downloads/download-ifgf-indice-firjan-de-gestao-fiscal.htm) [See also](https://www.bbc.com/portuguese/brasil-54669538?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom3=BBC+Brasil&at_medium=custom7&at_custom2=facebook_page&at_custom4=E75DF42A-228C-11EB-B49F-116F96E8478F&fbclid=IwAR3LtC9aGRIAzveqiCMO9A-huVc6GgMwrrsBQa-GCLd4GNckQBps8mwGsMQ)
+
 [Mapa Brasil Transparente](https://mbt.cgu.gov.br/publico/home)
 
 [Escala Brasil Transparente](https://relatorios.cgu.gov.br/Visualizador.aspx?id_relatorio=23)
