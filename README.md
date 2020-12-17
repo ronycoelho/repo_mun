@@ -14,7 +14,7 @@
 
 Munics IBGE - ftp://ftp.ibge.gov.br/Perfil_Municipios
 
-Pib dos Municípios - ftp://ftp.ibge.gov.br/Pib_Municipios
+Pib dos Municípios - ftp://ftp.ibge.gov.br/Pib_Municipios; [ver também](https://www.ibge.gov.br/apps/pibmunic/) 
 
 [https://cidades.ibge.gov.br/](https://cidades.ibge.gov.br/)
 
