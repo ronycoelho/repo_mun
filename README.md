@@ -22,6 +22,8 @@ Censo Suas
 
 DataSus
 
+[dadosabertos - Municípios do Brasil](https://dadosabertos.social/t/municipios-do-brasil/331)
+
 [Munics-IPs](https://github.com/ronycoelho/Bases-Munics-IPs-e-Estadics-IPs)
 
 [Replication data for: Looking to the Next Election: Electoral Incentives as a Force Against Corruption in Brazilian Municipalities](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q4KZFQ)
