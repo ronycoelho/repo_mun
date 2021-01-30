@@ -42,6 +42,9 @@ tsemun <- tse_municipios()
 
 [geobr](https://cran.r-project.org/web/packages/geobr/vignettes/intro_to_geobr.html)
 
+[owdbr - Open Welfare Data Brazil](https://cran.r-project.org/web/packages/owdbr/owdbr.pdf)
+
+
 ## Indicadores
 
 [IVS - Atlas da Vulnerabilidade Social nos Municípios](http://ivs.ipea.gov.br/index.php/pt/planilha) 
