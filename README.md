@@ -46,6 +46,7 @@ tsemun <- tse_municipios()
 
 
 ## Indicadores
+[Índice de Desenvolvimento Sustentável das Cidades](https://idsc-br.sdgindex.org/)
 
 [IVS - Atlas da Vulnerabilidade Social nos Municípios](http://ivs.ipea.gov.br/index.php/pt/planilha) 
 
