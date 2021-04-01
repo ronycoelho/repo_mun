@@ -28,7 +28,12 @@ DataSus
 
 [Replication data for: Looking to the Next Election: Electoral Incentives as a Force Against Corruption in Brazilian Municipalities](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q4KZFQ)
 
+
+[IPEADATA - Nível: municípios](http://www.ipeadata.gov.br/Default.aspx)
+
 [Municipios Brasileiros - lat e long](https://github.com/kelvins/Municipios-Brasileiros)
+
+
 
 ## Pacotes
 
