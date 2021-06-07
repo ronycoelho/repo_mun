@@ -86,3 +86,6 @@ Instituto Brasileiro de Administração Municipal – IBAM - http://www.ibam.org
 Nepol - Núcleo de pesquisa sobre política local https://nepolufjf.wordpress.com/bases-de-dados/
 
 https://painelgfs.tesouro.gov.br/
+
+
+https://rpubs.com/jadsonbitencourt
