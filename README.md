@@ -87,5 +87,6 @@ Nepol - Núcleo de pesquisa sobre política local https://nepolufjf.wordpress.co
 
 https://painelgfs.tesouro.gov.br/
 
-
 https://rpubs.com/jadsonbitencourt
+
+Cluster: população, região, estado, idade, hierarquia, pib per capta, idh(?).
