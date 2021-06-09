@@ -89,4 +89,4 @@ https://painelgfs.tesouro.gov.br/
 
 https://rpubs.com/jadsonbitencourt
 
-Cluster: população, região, estado, idade, hierarquia, pib per capta, idh(?).
+Cluster: população, região, estado, idade, hierarquia, pib per capta, idh(?); gestões partidárias(?)
