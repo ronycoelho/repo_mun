@@ -34,6 +34,8 @@ DataSus
 
 [Base dos dados, "municípios"](https://basedosdados.org/dataset/?q=munic%C3%ADpios)
 
+[Panaroma do Legislativo Municipal](https://www.senado.leg.br/institucional/datasenado/panorama/#/)
+
 ## Pacotes
 
 [ribge](https://github.com/tbrugz/ribge)
