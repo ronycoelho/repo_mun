@@ -36,6 +36,8 @@ DataSus
 
 [Panaroma do Legislativo Municipal](https://www.senado.leg.br/institucional/datasenado/panorama/#/)
 
+[Índice de Concorrência dos Municípios](https://produto.patri.com.br/others/disparo/preview/138425/5/YWxs)
+
 ## Pacotes
 
 [ribge](https://github.com/tbrugz/ribge)
