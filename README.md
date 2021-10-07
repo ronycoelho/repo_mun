@@ -38,6 +38,8 @@ DataSus
 
 [Índice de Concorrência dos Municípios](https://produto.patri.com.br/others/disparo/preview/138425/5/YWxs)
 
+[Censo Legislativo](https://basedosdados.org/dataset/censo-legislativo)
+
 ## Pacotes
 
 [ribge](https://github.com/tbrugz/ribge)
