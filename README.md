@@ -95,4 +95,10 @@ https://painelgfs.tesouro.gov.br/
 
 https://rpubs.com/jadsonbitencourt
 
+
+## -
 Cluster: população, região, estado, idade, hierarquia, pib per capta, idh(?); gini; gestões partidárias(?)
+
+
+## - 
+[Participation, partnerships and planning](https://ronycoelho.github.io/ippc/capacities_englishversion.html)
