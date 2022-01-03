@@ -54,6 +54,8 @@ tsemun <- tse_municipios()
 
 [owdbr - Open Welfare Data Brazil](https://cran.r-project.org/web/packages/owdbr/owdbr.pdf)
 
+[munifacil](https://github.com/curso-r/munifacil)
+
 
 ## Indicadores
 [Índice de Desenvolvimento Sustentável das Cidades](https://idsc-br.sdgindex.org/)
