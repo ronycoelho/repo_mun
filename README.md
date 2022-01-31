@@ -42,6 +42,8 @@ DataSus
 
 [REGIC - Regiões de Influência das Cidades](https://www.ibge.gov.br/geociencias/cartas-e-mapas/redes-geograficas/15798-regioes-de-influencia-das-cidades.html?=&t=o-que-e)
 
+[API de localidades](https://servicodados.ibge.gov.br/api/docs/localidades#api-_)
+
 ## Pacotes
 
 [ribge](https://github.com/tbrugz/ribge)
