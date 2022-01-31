@@ -40,6 +40,8 @@ DataSus
 
 [Censo Legislativo](https://basedosdados.org/dataset/censo-legislativo)
 
+[REGIC - Regiões de Influência das Cidades](https://www.ibge.gov.br/geociencias/cartas-e-mapas/redes-geograficas/15798-regioes-de-influencia-das-cidades.html?=&t=o-que-e)
+
 ## Pacotes
 
 [ribge](https://github.com/tbrugz/ribge)
