@@ -101,6 +101,7 @@ https://painelgfs.tesouro.gov.br/
 
 https://rpubs.com/jadsonbitencourt
 
+[kelvins/Municipios-Brasileiros](https://github.com/kelvins/Municipios-Brasileiros/blob/main/csv/municipios.csv)
 
 ## -
 Cluster: população, região, estado, idade, hierarquia, pib per capta, idh(?); gini; gestões partidárias(?)
