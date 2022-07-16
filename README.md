@@ -44,6 +44,8 @@ DataSus
 
 [API de localidades](https://servicodados.ibge.gov.br/api/docs/localidades#api-_)
 
+[Localidades | 2010 - IBGE](https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/27385-localidades.html?edicao=27386&t=o-que-e)
+
 ## Pacotes
 
 [ribge](https://github.com/tbrugz/ribge)
