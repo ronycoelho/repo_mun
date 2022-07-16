@@ -119,5 +119,7 @@ geo_info_seat <- geobr::read_municipal_seat() %>%
     as_tibble() %>% 
     separate(geom,  sep = " ", into = c("lat", "long")) %>% 
     mutate(lat = str_remove(str_remove(lat, "(c\\()"), ","),
-           long = str_remove(long, "\\)"))
+           long = str_remove(long, "\\)"))%>%
+   mutate(lat = as.double(lat), long = as.double(long)) %>% 
+  select(codigo_ibge, lat, long)
 ```
