@@ -111,3 +111,13 @@ Cluster: população, região, estado, idade, hierarquia, pib per capta, idh(?);
 
 ## - 
 [Participation, partnerships and planning](https://ronycoelho.github.io/ippc/capacities_englishversion.html)
+
+
+```
+geo_info_seat <- geobr::read_municipal_seat() %>% 
+  rename(codigo_ibge = code_muni ) %>% 
+    as_tibble() %>% 
+    separate(geom,  sep = " ", into = c("lat", "long")) %>% 
+    mutate(lat = str_remove(str_remove(lat, "(c\\()"), ","),
+           long = str_remove(long, "\\)"))
+```
