@@ -114,6 +114,7 @@ Cluster: população, região, estado, idade, hierarquia, pib per capta, idh(?);
 
 
 ```
+#Sedes
 geo_info_seat <- geobr::read_municipal_seat() %>% 
   rename(codigo_ibge = code_muni ) %>% 
     as_tibble() %>% 
@@ -122,4 +123,19 @@ geo_info_seat <- geobr::read_municipal_seat() %>%
            long = str_remove(long, "\\)"))%>%
    mutate(lat = as.double(lat), long = as.double(long)) %>% 
   select(codigo_ibge, lat, long)
+  
+ # Centroids
+geo_info <- geobr::read_municipality() %>% rename(codigo_ibge = code_muni )
+
+# Excuir, pois erro no calculo
+geo_info <- geo_info %>% 
+  slice(-c(67, 2260))
+
+geo_info$centroid <- sf::st_centroid(geo_info$geom)
+
+geo_info <- geo_info %>% 
+  separate(centroid,  sep = " ", into = c("lat", "long")) %>% 
+    mutate(lat = str_remove(str_remove(lat, "(c\\()"), ","),
+           long = str_remove(long, "\\)")) %>% 
+    mutate(lat = as.double(lat), long = as.double(long))
 ```
