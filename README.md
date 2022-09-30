@@ -139,3 +139,16 @@ geo_info <- geo_info %>%
            long = str_remove(long, "\\)")) %>% 
     mutate(lat = as.double(lat), long = as.double(long))
 ```
+
+### muni_codes
+```{r}
+code_muni <- 
+  function(){
+  library(dplyr)
+  geobr::read_municipal_seat() %>% 
+  as_tibble() %>% 
+  dplyr::select(code_muni, name_muni, abbrev_state, name_region)  
+  }  
+
+muni <- code_muni()  
+```
